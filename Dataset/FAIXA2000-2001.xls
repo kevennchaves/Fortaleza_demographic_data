@@ -1,0 +1,1830 @@
+<!--
+  To change this template, choose Tools | Templates
+  and open the template in the editor.
+-->
+
+<html>
+  <head>
+    <title>SIMDA  - Sistema de Monitoramento Diário de Agravos</title>
+    <meta name="layout" content=""/>
+  <r:require module="relatorios"></r:require>
+  <r:require module="export"></r:require>
+</head>
+<body>
+  <div class="space-me"></div>
+  <H1>POPULA&Ccedil;&Atilde;O  
+      CONSOLIDADA POR bairro SEGUNDO A FAIXA ET&Aacute;RIA, FORTALEZA, 2000-2001**</H1>
+
+<div class="list">
+
+  <table class="table table-striped table-bordered table-condensed table-small"  >
+    <thead>
+      <tr>
+        <th rowspan ="3" style="vertical-align: middle;text-transform: uppercase;" >bairro</th>
+        <th colspan="14">FAIXA ET&Aacute;RIA</th>
+      </tr>
+      <tr>
+<th>0-9</th><th>10-18</th><th>19-59</th><th>60+</th>
+        <th>TOTAL</th>
+      </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td>AEROLANDIA  </td>
+      
+        <td>2210 </td>
+      
+        <td>2267 </td>
+      
+        <td>6329 </td>
+      
+        <td>1019 </td>
+      
+        <td>11824 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>AEROPORTO  </td>
+      
+        <td>1813 </td>
+      
+        <td>1520 </td>
+      
+        <td>3990 </td>
+      
+        <td>313 </td>
+      
+        <td>7635 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ALDEOTA  </td>
+      
+        <td>4075 </td>
+      
+        <td>6856 </td>
+      
+        <td>22975 </td>
+      
+        <td>4733 </td>
+      
+        <td>38636 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ALTO DA BALANCA  </td>
+      
+        <td>2284 </td>
+      
+        <td>2332 </td>
+      
+        <td>7307 </td>
+      
+        <td>1308 </td>
+      
+        <td>13229 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ALVARO WEYNE  </td>
+      
+        <td>3900 </td>
+      
+        <td>4335 </td>
+      
+        <td>12653 </td>
+      
+        <td>2228 </td>
+      
+        <td>23113 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>AMADEU FURTADO  </td>
+      
+        <td>1629 </td>
+      
+        <td>2049 </td>
+      
+        <td>6796 </td>
+      
+        <td>1601 </td>
+      
+        <td>12074 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ANCURI  </td>
+      
+        <td>3028 </td>
+      
+        <td>2860 </td>
+      
+        <td>7224 </td>
+      
+        <td>770 </td>
+      
+        <td>13891 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ANTONIO BEZERRA  </td>
+      
+        <td>4331 </td>
+      
+        <td>4514 </td>
+      
+        <td>13734 </td>
+      
+        <td>2122 </td>
+      
+        <td>24698 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>AUTRAN NUNES  </td>
+      
+        <td>5053 </td>
+      
+        <td>4618 </td>
+      
+        <td>10546 </td>
+      
+        <td>1109 </td>
+      
+        <td>21323 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BARRA DO CEARA  </td>
+      
+        <td>15686 </td>
+      
+        <td>14112 </td>
+      
+        <td>35971 </td>
+      
+        <td>3559 </td>
+      
+        <td>69317 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BARROSO  </td>
+      
+        <td>5781 </td>
+      
+        <td>4857 </td>
+      
+        <td>12381 </td>
+      
+        <td>1101 </td>
+      
+        <td>24116 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BELA VISTA  </td>
+      
+        <td>2675 </td>
+      
+        <td>2914 </td>
+      
+        <td>8947 </td>
+      
+        <td>1416 </td>
+      
+        <td>15950 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BENFICA  </td>
+      
+        <td>1304 </td>
+      
+        <td>2243 </td>
+      
+        <td>7636 </td>
+      
+        <td>1750 </td>
+      
+        <td>12932 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BOM FUTURO  </td>
+      
+        <td>776 </td>
+      
+        <td>1073 </td>
+      
+        <td>3567 </td>
+      
+        <td>853 </td>
+      
+        <td>6268 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BOM JARDIM  </td>
+      
+        <td>8185 </td>
+      
+        <td>6914 </td>
+      
+        <td>17390 </td>
+      
+        <td>2023 </td>
+      
+        <td>34507 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>BOM SUCESSO  </td>
+      
+        <td>7569 </td>
+      
+        <td>6842 </td>
+      
+        <td>20275 </td>
+      
+        <td>2636 </td>
+      
+        <td>37316 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CAIS DO PORTO  </td>
+      
+        <td>4548 </td>
+      
+        <td>4630 </td>
+      
+        <td>11161 </td>
+      
+        <td>1193 </td>
+      
+        <td>21529 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CAJAZEIRAS  </td>
+      
+        <td>1612 </td>
+      
+        <td>1528 </td>
+      
+        <td>5074 </td>
+      
+        <td>433 </td>
+      
+        <td>8646 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CAMBEBA  </td>
+      
+        <td>939 </td>
+      
+        <td>1074 </td>
+      
+        <td>3038 </td>
+      
+        <td>378 </td>
+      
+        <td>5428 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CANINDEZINHO  </td>
+      
+        <td>7754 </td>
+      
+        <td>5893 </td>
+      
+        <td>14919 </td>
+      
+        <td>1127 </td>
+      
+        <td>29688 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CARLITO PAMPLONA  </td>
+      
+        <td>4440 </td>
+      
+        <td>4613 </td>
+      
+        <td>13311 </td>
+      
+        <td>2022 </td>
+      
+        <td>24383 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CASTELÃO  </td>
+      
+        <td>992 </td>
+      
+        <td>802 </td>
+      
+        <td>2481 </td>
+      
+        <td>268 </td>
+      
+        <td>4542 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CENTRO  </td>
+      
+        <td>2714 </td>
+      
+        <td>3818 </td>
+      
+        <td>14336 </td>
+      
+        <td>3766 </td>
+      
+        <td>24775 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CIDADE 2000  </td>
+      
+        <td>863 </td>
+      
+        <td>1352 </td>
+      
+        <td>4827 </td>
+      
+        <td>844 </td>
+      
+        <td>7885 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CIDADE DOS FUNCIONARIOS  </td>
+      
+        <td>2419 </td>
+      
+        <td>3270 </td>
+      
+        <td>9891 </td>
+      
+        <td>1315 </td>
+      
+        <td>16893 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>COACU  </td>
+      
+        <td>1227 </td>
+      
+        <td>1025 </td>
+      
+        <td>2683 </td>
+      
+        <td>263 </td>
+      
+        <td>5197 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>COCO  </td>
+      
+        <td>1809 </td>
+      
+        <td>2601 </td>
+      
+        <td>8492 </td>
+      
+        <td>1051 </td>
+      
+        <td>13952 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CONJUNTO CEARA I  </td>
+      
+        <td>2579 </td>
+      
+        <td>3789 </td>
+      
+        <td>11056 </td>
+      
+        <td>1357 </td>
+      
+        <td>18779 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CONJUNTO CEARA II  </td>
+      
+        <td>3237 </td>
+      
+        <td>4722 </td>
+      
+        <td>13379 </td>
+      
+        <td>1739 </td>
+      
+        <td>23075 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CONJUNTO ESPERANCA  </td>
+      
+        <td>2828 </td>
+      
+        <td>3087 </td>
+      
+        <td>8448 </td>
+      
+        <td>930 </td>
+      
+        <td>15291 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>COUTO FERNANDES  </td>
+      
+        <td>976 </td>
+      
+        <td>974 </td>
+      
+        <td>2666 </td>
+      
+        <td>364 </td>
+      
+        <td>4979 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CRISTO REDENTOR  </td>
+      
+        <td>5574 </td>
+      
+        <td>5792 </td>
+      
+        <td>15204 </td>
+      
+        <td>2348 </td>
+      
+        <td>28914 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>CURIO  </td>
+      
+        <td>1932 </td>
+      
+        <td>1520 </td>
+      
+        <td>3694 </td>
+      
+        <td>343 </td>
+      
+        <td>7488 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DAMAS  </td>
+      
+        <td>1131 </td>
+      
+        <td>1409 </td>
+      
+        <td>4981 </td>
+      
+        <td>972 </td>
+      
+        <td>8492 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DEMOCRITO ROCHA  </td>
+      
+        <td>1904 </td>
+      
+        <td>2066 </td>
+      
+        <td>6354 </td>
+      
+        <td>1154 </td>
+      
+        <td>11477 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DENDE  </td>
+      
+        <td>440 </td>
+      
+        <td>390 </td>
+      
+        <td>1108 </td>
+      
+        <td>80 </td>
+      
+        <td>2120 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DIAS MACEDO  </td>
+      
+        <td>2559 </td>
+      
+        <td>2396 </td>
+      
+        <td>6151 </td>
+      
+        <td>795 </td>
+      
+        <td>11899 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DIONISIO TORRES  </td>
+      
+        <td>1427 </td>
+      
+        <td>2499 </td>
+      
+        <td>9083 </td>
+      
+        <td>1944 </td>
+      
+        <td>14952 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>DOM LUSTOSA  </td>
+      
+        <td>2284 </td>
+      
+        <td>2249 </td>
+      
+        <td>6948 </td>
+      
+        <td>883 </td>
+      
+        <td>12362 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>EDSON QUEIROZ  </td>
+      
+        <td>4105 </td>
+      
+        <td>4160 </td>
+      
+        <td>10883 </td>
+      
+        <td>1146 </td>
+      
+        <td>20291 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>FARIAS BRITO  </td>
+      
+        <td>1589 </td>
+      
+        <td>2038 </td>
+      
+        <td>6556 </td>
+      
+        <td>1452 </td>
+      
+        <td>11634 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>FATIMA  </td>
+      
+        <td>2620 </td>
+      
+        <td>4195 </td>
+      
+        <td>13431 </td>
+      
+        <td>2826 </td>
+      
+        <td>23070 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>FLORESTA  </td>
+      
+        <td>5970 </td>
+      
+        <td>5451 </td>
+      
+        <td>14855 </td>
+      
+        <td>1762 </td>
+      
+        <td>28034 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>GRANJA LISBOA  </td>
+      
+        <td>12554 </td>
+      
+        <td>10261 </td>
+      
+        <td>24740 </td>
+      
+        <td>2306 </td>
+      
+        <td>49852 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>GRANJA PORTUGAL  </td>
+      
+        <td>8907 </td>
+      
+        <td>7630 </td>
+      
+        <td>18713 </td>
+      
+        <td>2125 </td>
+      
+        <td>37369 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>GUAJIRU  </td>
+      
+        <td>1206 </td>
+      
+        <td>1207 </td>
+      
+        <td>3149 </td>
+      
+        <td>356 </td>
+      
+        <td>5917 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>GUARARAPES  </td>
+      
+        <td>312 </td>
+      
+        <td>502 </td>
+      
+        <td>1839 </td>
+      
+        <td>246 </td>
+      
+        <td>2899 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>HENRIQUE JORGE  </td>
+      
+        <td>4482 </td>
+      
+        <td>4645 </td>
+      
+        <td>14378 </td>
+      
+        <td>2131 </td>
+      
+        <td>25633 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ITAOCA  </td>
+      
+        <td>2127 </td>
+      
+        <td>2348 </td>
+      
+        <td>7185 </td>
+      
+        <td>1069 </td>
+      
+        <td>12728 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>ITAPERI  </td>
+      
+        <td>2981 </td>
+      
+        <td>3191 </td>
+      
+        <td>9449 </td>
+      
+        <td>1148 </td>
+      
+        <td>16767 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JACARECANGA  </td>
+      
+        <td>2175 </td>
+      
+        <td>2524 </td>
+      
+        <td>7421 </td>
+      
+        <td>1481 </td>
+      
+        <td>13600 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JANGURUSSU  </td>
+      
+        <td>16409 </td>
+      
+        <td>12102 </td>
+      
+        <td>32206 </td>
+      
+        <td>2695 </td>
+      
+        <td>63401 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JARDIM AMERICA  </td>
+      
+        <td>1737 </td>
+      
+        <td>2068 </td>
+      
+        <td>6620 </td>
+      
+        <td>1375 </td>
+      
+        <td>11799 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JARDIM CEARENSE  </td>
+      
+        <td>1497 </td>
+      
+        <td>1517 </td>
+      
+        <td>4124 </td>
+      
+        <td>393 </td>
+      
+        <td>7530 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JARDIM DAS OLIVEIRAS  </td>
+      
+        <td>6768 </td>
+      
+        <td>6412 </td>
+      
+        <td>15839 </td>
+      
+        <td>1740 </td>
+      
+        <td>30754 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JARDIM GUANABARA  </td>
+      
+        <td>2594 </td>
+      
+        <td>2682 </td>
+      
+        <td>8059 </td>
+      
+        <td>1156 </td>
+      
+        <td>14489 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JARDIM IRACEMA  </td>
+      
+        <td>4147 </td>
+      
+        <td>4005 </td>
+      
+        <td>12040 </td>
+      
+        <td>1724 </td>
+      
+        <td>21913 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JOAO XXIII  </td>
+      
+        <td>3365 </td>
+      
+        <td>3347 </td>
+      
+        <td>9616 </td>
+      
+        <td>1370 </td>
+      
+        <td>17696 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JOAQUIM TAVORA  </td>
+      
+        <td>2668 </td>
+      
+        <td>3824 </td>
+      
+        <td>13449 </td>
+      
+        <td>3112 </td>
+      
+        <td>23051 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JOQUEI CLUBE  </td>
+      
+        <td>3028 </td>
+      
+        <td>3160 </td>
+      
+        <td>10430 </td>
+      
+        <td>1686 </td>
+      
+        <td>18302 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JOSE BONIFACIO  </td>
+      
+        <td>886 </td>
+      
+        <td>1394 </td>
+      
+        <td>5034 </td>
+      
+        <td>1442 </td>
+      
+        <td>8755 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>JOSÉ DE ALENCAR  </td>
+      
+        <td>2752 </td>
+      
+        <td>2242 </td>
+      
+        <td>5740 </td>
+      
+        <td>501 </td>
+      
+        <td>11233 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>LAGOA REDONDA  </td>
+      
+        <td>5100 </td>
+      
+        <td>3912 </td>
+      
+        <td>10736 </td>
+      
+        <td>1008 </td>
+      
+        <td>20752 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>LUCIANO CAVALCANTE  </td>
+      
+        <td>1640 </td>
+      
+        <td>1948 </td>
+      
+        <td>5947 </td>
+      
+        <td>792 </td>
+      
+        <td>10326 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MANUEL DIAS BRANCO  </td>
+      
+        <td>440 </td>
+      
+        <td>317 </td>
+      
+        <td>805 </td>
+      
+        <td>32 </td>
+      
+        <td>1594 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MARAPONGA  </td>
+      
+        <td>1500 </td>
+      
+        <td>1554 </td>
+      
+        <td>5016 </td>
+      
+        <td>519 </td>
+      
+        <td>8588 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MATA GALINHA  </td>
+      
+        <td>887 </td>
+      
+        <td>761 </td>
+      
+        <td>2256 </td>
+      
+        <td>218 </td>
+      
+        <td>4121 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MESSEJANA  </td>
+      
+        <td>6721 </td>
+      
+        <td>7307 </td>
+      
+        <td>21159 </td>
+      
+        <td>3191 </td>
+      
+        <td>38374 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MONDUBIM (SEDE)  </td>
+      
+        <td>19602 </td>
+      
+        <td>15504 </td>
+      
+        <td>41768 </td>
+      
+        <td>3443 </td>
+      
+        <td>80303 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MONTE CASTELO  </td>
+      
+        <td>1934 </td>
+      
+        <td>2245 </td>
+      
+        <td>7034 </td>
+      
+        <td>1540 </td>
+      
+        <td>12752 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MONTESE  </td>
+      
+        <td>3647 </td>
+      
+        <td>4538 </td>
+      
+        <td>15092 </td>
+      
+        <td>2787 </td>
+      
+        <td>26062 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MOURA BRASIL  </td>
+      
+        <td>704 </td>
+      
+        <td>755 </td>
+      
+        <td>1908 </td>
+      
+        <td>371 </td>
+      
+        <td>3738 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>MUCURIPE  </td>
+      
+        <td>1561 </td>
+      
+        <td>1970 </td>
+      
+        <td>7087 </td>
+      
+        <td>1283 </td>
+      
+        <td>11900 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PADRE ANDRADE  </td>
+      
+        <td>2280 </td>
+      
+        <td>2566 </td>
+      
+        <td>7170 </td>
+      
+        <td>1073 </td>
+      
+        <td>13087 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PAN AMERICANO  </td>
+      
+        <td>1473 </td>
+      
+        <td>1566 </td>
+      
+        <td>4851 </td>
+      
+        <td>888 </td>
+      
+        <td>8777 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PAPICU  </td>
+      
+        <td>3345 </td>
+      
+        <td>3857 </td>
+      
+        <td>11679 </td>
+      
+        <td>1413 </td>
+      
+        <td>20292 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARANGABA  </td>
+      
+        <td>4533 </td>
+      
+        <td>5070 </td>
+      
+        <td>15911 </td>
+      
+        <td>2534 </td>
+      
+        <td>28045 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE ARAXA  </td>
+      
+        <td>758 </td>
+      
+        <td>1096 </td>
+      
+        <td>3618 </td>
+      
+        <td>1011 </td>
+      
+        <td>6482 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE DOIS IRMAOS  </td>
+      
+        <td>5392 </td>
+      
+        <td>4386 </td>
+      
+        <td>12524 </td>
+      
+        <td>1028 </td>
+      
+        <td>23326 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE GENIBAU  </td>
+      
+        <td>9873 </td>
+      
+        <td>8260 </td>
+      
+        <td>19610 </td>
+      
+        <td>1522 </td>
+      
+        <td>39258 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE IRACEMA  </td>
+      
+        <td>745 </td>
+      
+        <td>907 </td>
+      
+        <td>2472 </td>
+      
+        <td>324 </td>
+      
+        <td>4447 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE MANIBURA  </td>
+      
+        <td>978 </td>
+      
+        <td>1297 </td>
+      
+        <td>4049 </td>
+      
+        <td>510 </td>
+      
+        <td>6833 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE PRESIDENTE VARGAS  </td>
+      
+        <td>1224 </td>
+      
+        <td>978 </td>
+      
+        <td>2392 </td>
+      
+        <td>222 </td>
+      
+        <td>4815 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE SANTA ROSA  </td>
+      
+        <td>2287 </td>
+      
+        <td>2181 </td>
+      
+        <td>5734 </td>
+      
+        <td>566 </td>
+      
+        <td>10766 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUE SAO JOSE  </td>
+      
+        <td>2031 </td>
+      
+        <td>1853 </td>
+      
+        <td>5804 </td>
+      
+        <td>809 </td>
+      
+        <td>10495 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARQUELANDIA  </td>
+      
+        <td>1600 </td>
+      
+        <td>2387 </td>
+      
+        <td>8043 </td>
+      
+        <td>1971 </td>
+      
+        <td>14000 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PARREAO  </td>
+      
+        <td>1368 </td>
+      
+        <td>1675 </td>
+      
+        <td>5585 </td>
+      
+        <td>1127 </td>
+      
+        <td>9754 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PASSARE  </td>
+      
+        <td>9351 </td>
+      
+        <td>7328 </td>
+      
+        <td>19204 </td>
+      
+        <td>1493 </td>
+      
+        <td>37369 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PAUPINA  </td>
+      
+        <td>4345 </td>
+      
+        <td>3581 </td>
+      
+        <td>9645 </td>
+      
+        <td>931 </td>
+      
+        <td>18499 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PEDRAS  </td>
+      
+        <td>353 </td>
+      
+        <td>329 </td>
+      
+        <td>798 </td>
+      
+        <td>96 </td>
+      
+        <td>1576 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PICI  </td>
+      
+        <td>8643 </td>
+      
+        <td>7558 </td>
+      
+        <td>19461 </td>
+      
+        <td>1990 </td>
+      
+        <td>37646 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PIRAMBU  </td>
+      
+        <td>3839 </td>
+      
+        <td>3658 </td>
+      
+        <td>9251 </td>
+      
+        <td>1708 </td>
+      
+        <td>18453 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PRAIA DE IRACEMA  </td>
+      
+        <td>327 </td>
+      
+        <td>503 </td>
+      
+        <td>1916 </td>
+      
+        <td>404 </td>
+      
+        <td>3150 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PRAIA DO FUTURO I  </td>
+      
+        <td>654 </td>
+      
+        <td>511 </td>
+      
+        <td>1601 </td>
+      
+        <td>152 </td>
+      
+        <td>2917 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PRAIA DO FUTURO II  </td>
+      
+        <td>2081 </td>
+      
+        <td>1476 </td>
+      
+        <td>3834 </td>
+      
+        <td>262 </td>
+      
+        <td>7651 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PRAIA DO MEIRELES  </td>
+      
+        <td>3017 </td>
+      
+        <td>4886 </td>
+      
+        <td>18689 </td>
+      
+        <td>3807 </td>
+      
+        <td>30397 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PREFEITO JOSE WALTER  </td>
+      
+        <td>3867 </td>
+      
+        <td>4580 </td>
+      
+        <td>14973 </td>
+      
+        <td>3060 </td>
+      
+        <td>26477 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>PRESIDENTE KENNEDY  </td>
+      
+        <td>3814 </td>
+      
+        <td>4445 </td>
+      
+        <td>12887 </td>
+      
+        <td>1950 </td>
+      
+        <td>23094 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>QUINTINO CUNHA  </td>
+      
+        <td>9587 </td>
+      
+        <td>8851 </td>
+      
+        <td>22371 </td>
+      
+        <td>2170 </td>
+      
+        <td>42973 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>RODOLFO TEOFILO  </td>
+      
+        <td>2548 </td>
+      
+        <td>3065 </td>
+      
+        <td>10157 </td>
+      
+        <td>2112 </td>
+      
+        <td>17880 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SABIAGUABA  </td>
+      
+        <td>753 </td>
+      
+        <td>567 </td>
+      
+        <td>1295 </td>
+      
+        <td>145 </td>
+      
+        <td>2759 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SALINAS  </td>
+      
+        <td>365 </td>
+      
+        <td>396 </td>
+      
+        <td>1244 </td>
+      
+        <td>136 </td>
+      
+        <td>2141 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SAO GERARDO/ALAGADICO  </td>
+      
+        <td>1698 </td>
+      
+        <td>2315 </td>
+      
+        <td>7767 </td>
+      
+        <td>1338 </td>
+      
+        <td>13117 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SAO JOAO DO TAUAPE  </td>
+      
+        <td>3922 </td>
+      
+        <td>4694 </td>
+      
+        <td>15722 </td>
+      
+        <td>2993 </td>
+      
+        <td>27328 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SAPIRANGA COITE  </td>
+      
+        <td>5409 </td>
+      
+        <td>4795 </td>
+      
+        <td>12014 </td>
+      
+        <td>1184 </td>
+      
+        <td>23399 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SERRINHA  </td>
+      
+        <td>5255 </td>
+      
+        <td>5091 </td>
+      
+        <td>13635 </td>
+      
+        <td>1704 </td>
+      
+        <td>25682 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>SIQUEIRA  </td>
+      
+        <td>6384 </td>
+      
+        <td>4615 </td>
+      
+        <td>11680 </td>
+      
+        <td>1055 </td>
+      
+        <td>23728 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VARJOTA  </td>
+      
+        <td>749 </td>
+      
+        <td>1109 </td>
+      
+        <td>4397 </td>
+      
+        <td>661 </td>
+      
+        <td>6916 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VICENTE PINZON  </td>
+      
+        <td>7857 </td>
+      
+        <td>7986 </td>
+      
+        <td>21325 </td>
+      
+        <td>2370 </td>
+      
+        <td>39551 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VILA ELLERY  </td>
+      
+        <td>1104 </td>
+      
+        <td>1277 </td>
+      
+        <td>4086 </td>
+      
+        <td>742 </td>
+      
+        <td>7209 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VILA MANOEL SATIRO  </td>
+      
+        <td>6128 </td>
+      
+        <td>6202 </td>
+      
+        <td>17928 </td>
+      
+        <td>2088 </td>
+      
+        <td>32354 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VILA PERI  </td>
+      
+        <td>3317 </td>
+      
+        <td>3596 </td>
+      
+        <td>11129 </td>
+      
+        <td>1705 </td>
+      
+        <td>19745 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VILA UNIAO  </td>
+      
+        <td>2305 </td>
+      
+        <td>2642 </td>
+      
+        <td>8489 </td>
+      
+        <td>1310 </td>
+      
+        <td>14744 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>VILA VELHA  </td>
+      
+        <td>10078 </td>
+      
+        <td>9703 </td>
+      
+        <td>26578 </td>
+      
+        <td>3116 </td>
+      
+        <td>49468 </td>
+      
+      </tr>
+    
+      <tr>
+        <td>TOTAL  </td>
+      
+        <td>410739 </td>
+      
+        <td>407359 </td>
+      
+        <td>1163088 </td>
+      
+        <td>160216 </td>
+      
+        <td>2141402 </td>
+      
+      </tr>
+    
+    </tbody>
+  </table>
+</div> 
+  
+  <div class="space-me" > </div>
+   <blockquote>
+ 
+      <p><small>Fonte: <b> PMF/SMS/COVIS/CEVEPI</b> <b>*</b>Projeção populacional com base no Censo/2010, IBGE</small></p>
+     
+  
+  
+ 
+ 
+    </blockquote>  
+<script type="text/javascript" src="/simda/js/jquery.dataTables.js" ></script>
+    <link rel="stylesheet" href="/simda/css/table_jui.css" media="screen" />
+    <link rel="stylesheet" href="/simda/css/jquery.dataTables.min.css" media="screen" />
+ 
+        <script type="text/javascript" charset="utf-8">
+       
+             function inicio() {
+             $('#tabela_main').dataTable( {
+               "bPaginate": false ,
+                     "bLengthChange": false,
+                     "bFilter": true,
+                     "bJQueryUI": false,
+                     "bInfo": true,
+                     "bAutoWidth": false ,
+                     "bSort":false,
+
+                 "oLanguage": {
+                             "sSearch": "Localizar: ",
+                             "sInfoEmpty": "Total 0 to 0 of 0 records",
+                             "sInfo":  " " ,
+                              "sNext":  "billy"
+                     }
+
+             } );
+             }
+      inicio();
+
+  
+
+         function inicioReact() {
+    
+   $('#tabela_main').dataTable( {
+        "pagingType": "numbers",
+        "pageLength": 50 ,
+        "bPaginate": false,
+          "bLengthChange": false,
+          "bFilter": true,
+          "bJQueryUI": false,
+          "bInfo": true,
+          "bAutoWidth": false ,
+          "bSort":false,
+
+      "oLanguage": {
+                  "sSearch": "Localizar: ",
+                  "sInfoEmpty": "Total 0 to 0 of 0 records",
+                  "sInfo":  " " ,
+                  
+          }
+
+  } );
+
+         }
+
+      
+
+</script>
+
+</body>
+</html>
